@@ -9,8 +9,8 @@
 
 // Consts
 const std::string WINDOW_TITLE = "Red Dragon";
-const std::string SHADER_FRAGMENT = "./shaders/fragment.frag";
-const std::string SHADER_VERTEX = "./shaders/vertex.vert";
+const std::string SHADER_FRAGMENT = "./assets/shaders/default.frag";
+const std::string SHADER_VERTEX = "./assets/shaders/default.vert";
 
 // Types
 struct VERTEX
